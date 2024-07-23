@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs"/>
+    <img src="https://skillicons.dev/icons?i=py,go,nodejs,html"/>
 </p>
 
 https://t.me/notadmir
