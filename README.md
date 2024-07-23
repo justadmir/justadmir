@@ -4,6 +4,7 @@
 <a href="https://github.com/justadmir"></a>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=justadmir&style=for-the-badge">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=justadmir&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
   <img height="25" src="https://img.shields.io/github/followers/justadmir?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/justadmir?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
